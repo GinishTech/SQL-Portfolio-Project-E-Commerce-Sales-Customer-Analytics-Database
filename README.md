@@ -29,7 +29,7 @@ performance, customer behavior, and fulfillment operations.
 | **Intermediate** | 56–105 | `INNER`/`LEFT`/self joins, `HAVING`, subqueries, `CASE`, date & string functions |
 | **Advanced** | 106–150 | Window functions (`RANK`, `ROW_NUMBER`, `LAG`, `LEAD`, `NTILE`, `PERCENT_RANK`), CTEs, recursive CTEs, market basket analysis, RFM segmentation, views |
 
-The full question list is in [`docs/150_SQL_Questions.pdf`](docs/150_SQL_Questions.pdf).
+The full question list is in [`docs/150_SQL_Questions.pdf`](150_SQL_Questions.pdf).
 
 ## Techniques demonstrated
 
