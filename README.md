@@ -67,7 +67,7 @@ The full question list is in [`docs/150_SQL_Questions.pdf`](150_SQL_Questions.pd
 | Review rating spread | ~2,000 reviews per star (1–5), evenly distributed |
 | Largest employee department | Management — 14 employees |
 
-More detail in [`docs/project_insights.md`](docs/project_insights.md).
+More detail in [`docs/project_insights.md`](Project_Insights_GinishTech.pdf).
 
 ## Tech stack
 
