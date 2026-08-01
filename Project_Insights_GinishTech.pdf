@@ -1,0 +1,821 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 10 0 R 12 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 16 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6780
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 720.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 2 Tm /F2 20 Tf 22 TL 91.21 0 Td (E-Commerce SQL Portfolio Project) Tj T* -91.21 0 Td ET
+Q
+Q
+q
+1 0 0 1 49.2 704.8 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Whole Project Insights Report \227 Customer Analytics Database) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 668.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Project Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 600.8 cm
+q
+BT 1 0 0 1 0 49.7 Tm -0.026988 Tw 15 TL /F1 10.3 Tf 0 0 0 rg (This project is a comprehensive SQL portfolio piece built around a real E-Commerce Sales & Customer Analytics) Tj T* 0 Tw (dataset \(Excel-sourced, imported into MySQL\). It demonstrates end-to-end SQL proficiency \227 from schema) Tj T* (design and data import, through basic querying, to advanced analytical techniques used in real-world business) Tj T* (intelligence and data analytics roles.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 579.8 cm
+q
+BT 1 0 0 1 0 4.7 Tm 15 TL /F1 10.3 Tf 0 0 0 rg (Database: ) Tj /F2 10.3 Tf (Customer_Analytics_db) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 558.8 cm
+q
+BT 1 0 0 1 0 4.7 Tm 15 TL /F1 10.3 Tf 0 0 0 rg (Dataset size: ) Tj /F2 10.3 Tf (77,445 rows) Tj /F1 10.3 Tf ( across 8 relational tables \(verified from source Excel workbook\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 537.8 cm
+q
+BT 1 0 0 1 0 4.7 Tm 15 TL /F1 10.3 Tf 0 0 0 rg (Total queries written: ) Tj /F2 10.3 Tf (150 SQL queries) Tj /F1 10.3 Tf (, organized into 3 skill-based sections) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 503.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Database Schema \227 8 Tables \(Actual Row Counts\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.8 297.8 cm
+q
+.101961 .301961 .560784 rg
+n 0 198 446.4 -22 re f*
+1 1 1 rg
+n 0 176 446.4 -22 re f*
+.94902 .964706 .984314 rg
+n 0 154 446.4 -22 re f*
+1 1 1 rg
+n 0 132 446.4 -22 re f*
+.94902 .964706 .984314 rg
+n 0 110 446.4 -22 re f*
+1 1 1 rg
+n 0 88 446.4 -22 re f*
+.94902 .964706 .984314 rg
+n 0 66 446.4 -22 re f*
+1 1 1 rg
+n 0 44 446.4 -22 re f*
+.94902 .964706 .984314 rg
+n 0 22 446.4 -22 re f*
+1 1 1 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 183.5 Tm (Table) Tj T* ET
+BT 1 0 0 1 99.6 183.5 Tm (Rows) Tj T* ET
+BT 1 0 0 1 157.2 183.5 Tm (Purpose) Tj T* ET
+0 0 0 rg
+BT /F1 9.3 Tf 12 TL ET
+BT 1 0 0 1 6 161.7 Tm (Categories) Tj T* ET
+BT 1 0 0 1 99.6 161.7 Tm (20) Tj T* ET
+BT 1 0 0 1 157.2 161.7 Tm (Product category reference data) Tj T* ET
+BT 1 0 0 1 6 139.7 Tm (Suppliers) Tj T* ET
+BT 1 0 0 1 99.6 139.7 Tm (150) Tj T* ET
+BT 1 0 0 1 157.2 139.7 Tm (Supplier information for sourced products) Tj T* ET
+BT 1 0 0 1 6 117.7 Tm (Employees) Tj T* ET
+BT 1 0 0 1 99.6 117.7 Tm (100) Tj T* ET
+BT 1 0 0 1 157.2 117.7 Tm (Staff records, departments, and reporting hierarchy) Tj T* ET
+BT 1 0 0 1 6 95.7 Tm (Customers) Tj T* ET
+BT 1 0 0 1 99.6 95.7 Tm (5,000) Tj T* ET
+BT 1 0 0 1 157.2 95.7 Tm (Customer profile & signup information) Tj T* ET
+BT 1 0 0 1 6 73.7 Tm (Products) Tj T* ET
+BT 1 0 0 1 99.6 73.7 Tm (2,000) Tj T* ET
+BT 1 0 0 1 157.2 73.7 Tm (Product catalog \(pricing, stock, category, supplier\)) Tj T* ET
+BT 1 0 0 1 6 51.7 Tm (Orders) Tj T* ET
+BT 1 0 0 1 99.6 51.7 Tm (15,000) Tj T* ET
+BT 1 0 0 1 157.2 51.7 Tm (Order-level transaction data \(status, dates, shipping\)) Tj T* ET
+BT 1 0 0 1 6 29.7 Tm (OrderItems) Tj T* ET
+BT 1 0 0 1 99.6 29.7 Tm (45,175) Tj T* ET
+BT 1 0 0 1 157.2 29.7 Tm (Line-item level detail for each order) Tj T* ET
+BT 1 0 0 1 6 7.7 Tm (Reviews) Tj T* ET
+BT 1 0 0 1 99.6 7.7 Tm (10,000) Tj T* ET
+BT 1 0 0 1 157.2 7.7 Tm (Customer product reviews and ratings) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 198 m 446.4 198 l S
+n 0 0 m 446.4 0 l S
+n 0 0 m 0 198 l S
+n 446.4 0 m 446.4 198 l S
+n 0 176 m 446.4 176 l S
+n 0 154 m 446.4 154 l S
+n 0 132 m 446.4 132 l S
+n 0 110 m 446.4 110 l S
+n 0 88 m 446.4 88 l S
+n 0 66 m 446.4 66 l S
+n 0 44 m 446.4 44 l S
+n 0 22 m 446.4 22 l S
+n 93.6 0 m 93.6 198 l S
+n 151.2 0 m 151.2 198 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 293.8 cm
+Q
+q
+1 0 0 1 49.2 281.8 cm
+q
+.466667 .466667 .466667 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Total: 77,445 rows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 247.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Query Breakdown by Skill Level) Tj T* ET
+Q
+Q
+q
+1 0 0 1 82.8 151.8 cm
+q
+.101961 .301961 .560784 rg
+n 0 88 446.4 -22 re f*
+1 1 1 rg
+n 0 66 446.4 -22 re f*
+.94902 .964706 .984314 rg
+n 0 44 446.4 -22 re f*
+1 1 1 rg
+n 0 22 446.4 -22 re f*
+1 1 1 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 73.5 Tm (Section) Tj T* ET
+BT 1 0 0 1 114 73.5 Tm (Range) Tj T* ET
+BT 1 0 0 1 178.8 73.5 Tm (Focus Areas) Tj T* ET
+0 0 0 rg
+BT /F1 9.3 Tf 12 TL ET
+BT 1 0 0 1 6 51.7 Tm (Basic Queries) Tj T* ET
+BT 1 0 0 1 114 51.7 Tm (1\22655) Tj T* ET
+BT 1 0 0 1 178.8 51.7 Tm (SELECT statements, WHERE/IN/BETWEEN filtering, ORDER BY, LIMIT, aggregate functions \(COUNT, SUM, AVG, MIN, MAX\), GROUP BY) Tj T* ET
+BT 1 0 0 1 6 29.7 Tm (Intermediate Queries) Tj T* ET
+BT 1 0 0 1 114 29.7 Tm (56\226105) Tj T* ET
+BT 1 0 0 1 178.8 29.7 Tm (INNER/LEFT/Self-Joins, HAVING, subqueries, CASE statements, date & string manipulation) Tj T* ET
+BT 1 0 0 1 6 7.7 Tm (Advanced Queries) Tj T* ET
+BT 1 0 0 1 114 7.7 Tm (106\226150) Tj T* ET
+BT 1 0 0 1 178.8 7.7 Tm (Window functions \(RANK, ROW_NUMBER, LAG, LEAD, NTILE, PERCENT_RANK\), CTEs, Recursive CTEs, Market Basket Analysis, Cohort & RFM Analytics, Views) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 88 m 446.4 88 l S
+n 0 0 m 446.4 0 l S
+n 0 0 m 0 88 l S
+n 446.4 0 m 446.4 88 l S
+n 0 66 m 446.4 66 l S
+n 0 44 m 446.4 44 l S
+n 0 22 m 446.4 22 l S
+n 108 0 m 108 88 l S
+n 172.8 0 m 172.8 88 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 117.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Key Analytical Techniques Demonstrated) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 94.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 94.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Multi-table joins \(INNER, LEFT, Self-Joins\) for relational data analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 75.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 75.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Window functions \227 RANK, DENSE_RANK, ROW_NUMBER, LAG, LEAD, NTILE, PERCENT_RANK) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 56.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 56.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Common Table Expressions \(CTEs\), including Recursive CTEs for employee/manager hierarchies) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+BT
+/F2-0 60 Tf
+72 TL
+ET
+0 0 0 rg
+/gRLs0 gs
+BT
+1 0 0 1 -163.38 0 Tm
+(GinishTech) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 5804
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 727.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 727.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Market Basket Analysis \227 identifying frequently co-purchased product pairs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 708.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 708.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (RFM Analysis \(Recency, Frequency, Monetary\) for customer segmentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 689.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 689.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Cohort-style customer churn and retention analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 670.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 670.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (SQL Views for reusable reporting layers \(e.g., product performance, customer summary\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 651.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 651.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Conditional aggregation / pivot-style reporting using CASE statements) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 632.8 cm
+BT /F1 12 Tf 14.4 TL ET
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 3 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 67.2 632.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 14 4.7 Tm /F1 10.3 Tf 15 TL (Correlated subqueries for row-level comparative analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 598.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Views Created) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 575.8 cm
+q
+BT 1 0 0 1 0 4.7 Tm 15 TL /F1 10.3 Tf 0 0 0 rg (\177 ) Tj /F2 10.3 Tf (product_performance) Tj /F1 10.3 Tf ( \227 summarizes units sold and revenue by product) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 554.8 cm
+q
+BT 1 0 0 1 0 4.7 Tm 15 TL /F1 10.3 Tf 0 0 0 rg (\177 ) Tj /F2 10.3 Tf (customer_summary) Tj /F1 10.3 Tf ( \227 summarizes each customer's order activity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 520.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Dataset Snapshot \227 Key Distributions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 497.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.7 Tm /F2 10.3 Tf 15 TL (Orders by Status \(15,000 total\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 169.2 339.8 cm
+q
+.101961 .301961 .560784 rg
+n 0 154 273.6 -22 re f*
+1 1 1 rg
+n 0 132 273.6 -22 re f*
+.94902 .964706 .984314 rg
+n 0 110 273.6 -22 re f*
+1 1 1 rg
+n 0 88 273.6 -22 re f*
+.94902 .964706 .984314 rg
+n 0 66 273.6 -22 re f*
+1 1 1 rg
+n 0 44 273.6 -22 re f*
+.94902 .964706 .984314 rg
+n 0 22 273.6 -22 re f*
+1 1 1 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 139.5 Tm (Order Status) Tj T* ET
+BT 1 0 0 1 121.2 139.5 Tm (Count) Tj T* ET
+BT 1 0 0 1 193.2 139.5 Tm (% of Orders) Tj T* ET
+0 0 0 rg
+BT /F1 9.3 Tf 12 TL ET
+BT 1 0 0 1 6 117.7 Tm (Delivered) Tj T* ET
+BT 1 0 0 1 121.2 117.7 Tm (6,795) Tj T* ET
+BT 1 0 0 1 193.2 117.7 Tm (45.3%) Tj T* ET
+BT 1 0 0 1 6 95.7 Tm (Shipped) Tj T* ET
+BT 1 0 0 1 121.2 95.7 Tm (2,988) Tj T* ET
+BT 1 0 0 1 193.2 95.7 Tm (19.9%) Tj T* ET
+BT 1 0 0 1 6 73.7 Tm (Processing) Tj T* ET
+BT 1 0 0 1 121.2 73.7 Tm (2,214) Tj T* ET
+BT 1 0 0 1 193.2 73.7 Tm (14.8%) Tj T* ET
+BT 1 0 0 1 6 51.7 Tm (Pending) Tj T* ET
+BT 1 0 0 1 121.2 51.7 Tm (1,492) Tj T* ET
+BT 1 0 0 1 193.2 51.7 Tm (10.0%) Tj T* ET
+BT 1 0 0 1 6 29.7 Tm (Cancelled) Tj T* ET
+BT 1 0 0 1 121.2 29.7 Tm (912) Tj T* ET
+BT 1 0 0 1 193.2 29.7 Tm (6.1%) Tj T* ET
+BT 1 0 0 1 6 7.7 Tm (Returned) Tj T* ET
+BT 1 0 0 1 121.2 7.7 Tm (599) Tj T* ET
+BT 1 0 0 1 193.2 7.7 Tm (4.0%) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 154 m 273.6 154 l S
+n 0 0 m 273.6 0 l S
+n 0 0 m 0 154 l S
+n 273.6 0 m 273.6 154 l S
+n 0 132 m 273.6 132 l S
+n 0 110 m 273.6 110 l S
+n 0 88 m 273.6 88 l S
+n 0 66 m 273.6 66 l S
+n 0 44 m 273.6 44 l S
+n 0 22 m 273.6 22 l S
+n 115.2 0 m 115.2 154 l S
+n 187.2 0 m 187.2 154 l S
+Q
+Q
+Q
+q
+1 0 0 1 49.2 329.8 cm
+Q
+q
+1 0 0 1 49.2 314.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.7 Tm /F2 10.3 Tf 15 TL (Other Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 97.2 156.8 cm
+q
+.101961 .301961 .560784 rg
+n 0 154 417.6 -22 re f*
+1 1 1 rg
+n 0 132 417.6 -22 re f*
+.94902 .964706 .984314 rg
+n 0 110 417.6 -22 re f*
+1 1 1 rg
+n 0 88 417.6 -22 re f*
+.94902 .964706 .984314 rg
+n 0 66 417.6 -22 re f*
+1 1 1 rg
+n 0 44 417.6 -22 re f*
+.94902 .964706 .984314 rg
+n 0 22 417.6 -22 re f*
+1 1 1 rg
+BT /F2 9.5 Tf 12 TL ET
+BT 1 0 0 1 6 139.5 Tm (Metric) Tj T* ET
+BT 1 0 0 1 178.8 139.5 Tm (Value) Tj T* ET
+0 0 0 rg
+BT /F1 9.3 Tf 12 TL ET
+BT 1 0 0 1 6 117.7 Tm (Product price range) Tj T* ET
+BT 1 0 0 1 178.8 117.7 Tm ($5.38 \226 $1,999.20) Tj T* ET
+BT 1 0 0 1 6 95.7 Tm (Active products) Tj T* ET
+BT 1 0 0 1 178.8 95.7 Tm (1,807 \(90.4%\)) Tj T* ET
+BT 1 0 0 1 6 73.7 Tm (Discontinued products) Tj T* ET
+BT 1 0 0 1 178.8 73.7 Tm (193 \(9.6%\)) Tj T* ET
+BT 1 0 0 1 6 51.7 Tm (Top customer country) Tj T* ET
+BT 1 0 0 1 178.8 51.7 Tm (USA \227 1,200 customers) Tj T* ET
+BT 1 0 0 1 6 29.7 Tm (Review rating spread) Tj T* ET
+BT 1 0 0 1 178.8 29.7 Tm (~2,000 reviews per star \(1\2265\), evenly distributed) Tj T* ET
+BT 1 0 0 1 6 7.7 Tm (Largest employee department) Tj T* ET
+BT 1 0 0 1 178.8 7.7 Tm (Management \227 14 employees) Tj T* ET
+q
+1 J
+1 j
+.8 .8 .8 RG
+.5 w
+n 0 154 m 417.6 154 l S
+n 0 0 m 417.6 0 l S
+n 0 0 m 0 154 l S
+n 417.6 0 m 417.6 154 l S
+n 0 132 m 417.6 132 l S
+n 0 110 m 417.6 110 l S
+n 0 88 m 417.6 88 l S
+n 0 66 m 417.6 66 l S
+n 0 44 m 417.6 44 l S
+n 0 22 m 417.6 22 l S
+n 172.8 0 m 172.8 154 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+BT
+/F2-0 60 Tf
+72 TL
+ET
+0 0 0 rg
+/gRLs0 gs
+BT
+1 0 0 1 -163.38 0 Tm
+(GinishTech) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.12
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 1032
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 49.2 724.8 cm
+q
+.101961 .301961 .560784 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Project Highlights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 49.2 641.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 64.7 Tm /F1 10.3 Tf 15 TL (This project mirrors the kind of analysis a data analyst performs in an e-commerce business: tracking sales) Tj T* (performance, understanding customer behavior, segmenting high-value customers, identifying churn risk, and) Tj T* (building repeatable reporting views \227 all using progressively advanced SQL, from single-table filters to recursive) Tj T* (hierarchies and RFM segmentation. The dataset's balanced review ratings and healthy delivery rate \(45%\) also) Tj T* (make it well-suited for customer satisfaction and fulfillment-performance storytelling.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+0.707107 0.707107 -0.707107 0.707107 306 396 cm
+BT
+/F2-0 60 Tf
+72 TL
+ET
+0 0 0 rg
+/gRLs0 gs
+BT
+1 0 0 1 -163.38 0 Tm
+(GinishTech) Tj
+T*
+ET
+Q
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/D [ 4 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+15 0 obj
+<<
+/A 14 0 R
+/Title (GinishTech \055 Page 1)
+/Parent 16 0 R
+/Count 0
+/Next 18 0 R
+>>
+endobj
+16 0 obj
+<<
+/First 15 0 R
+/Count 3
+/Last 20 0 R
+>>
+endobj
+17 0 obj
+<<
+/D [ 10 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+18 0 obj
+<<
+/A 17 0 R
+/Title (GinishTech \055 Page 2)
+/Prev 15 0 R
+/Parent 16 0 R
+/Count 0
+/Next 20 0 R
+>>
+endobj
+19 0 obj
+<<
+/D [ 12 0 R /Fit ]
+/S /GoTo
+>>
+endobj
+20 0 obj
+<<
+/A 19 0 R
+/Title (GinishTech \055 Page 3)
+/Prev 18 0 R
+/Parent 16 0 R
+/Count 0
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000193 00000 n 
+0000000477 00000 n 
+0000007309 00000 n 
+0000007416 00000 n 
+0000007523 00000 n 
+0000007635 00000 n 
+0000007747 00000 n 
+0000008033 00000 n 
+0000013890 00000 n 
+0000014176 00000 n 
+0000015261 00000 n 
+0000015310 00000 n 
+0000015411 00000 n 
+0000015469 00000 n 
+0000015519 00000 n 
+0000015633 00000 n 
+0000015683 00000 n 
+trailer
+<<
+/Size 21
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+15784
+%%EOF
