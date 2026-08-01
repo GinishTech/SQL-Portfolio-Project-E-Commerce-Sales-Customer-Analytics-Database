@@ -30,7 +30,7 @@ performance, customer behavior, and fulfillment operations.
 | Section | Range | Focus |
 |---|---|---|
 | **🟢 Basic** | 1–55 | `SELECT`, `WHERE` / `IN` / `BETWEEN`, `ORDER BY`, `LIMIT`, `COUNT`/`SUM`/`AVG`/`MIN`/`MAX`, `GROUP BY` |
-| **🟡 Intermediate** | 56–105 | `INNER`/`LEFT`/self joins, `HAVING`, subqueries, `CASE`, date & string functions |
+| **🟡  Intermediate** | 56–105 | `INNER`/`LEFT`/self joins, `HAVING`, subqueries, `CASE`, date & string functions |
 | **🔴 Advanced** | 106–150 | Window functions (`RANK`, `ROW_NUMBER`, `LAG`, `LEAD`, `NTILE`, `PERCENT_RANK`), CTEs, recursive CTEs, market basket analysis, RFM segmentation, views |
 
 The full question list is in [`docs/150_SQL_Questions.pdf`](150_SQL_Questions.pdf).
