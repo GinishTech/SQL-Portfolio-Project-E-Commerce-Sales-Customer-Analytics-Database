@@ -21,6 +21,10 @@ performance, customer behavior, and fulfillment operations.
 | OrderItems | 45,175 | Line-item level detail for each order |
 | Reviews | 10,000 | Customer product reviews and ratings |
 
+### Database ER Diagram
+<img width="806" height="467" alt="Tables Schema" src="https://github.com/user-attachments/assets/36d503ac-8d13-4801-a166-15a98de8fa5f" />
+
+
 ## Query breakdown
 
 | Section | Range | Focus |
